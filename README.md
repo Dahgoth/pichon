@@ -168,6 +168,8 @@ vercel --prod
 - **Nivel 2: Expediente felino.** Clasificado. Los gatos ya ganaron.
 - Un mundo en 3D. Motivos operativos impiden decir más.
 
+- **El día que podamos volver a hablar y estar en paz**
+
 ## Licencia
 
 Ver `LICENSE`.
